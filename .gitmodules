@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "forams"]
 	path = forams
-	url = https://github.com/cran/forams
+	url = https://github.com/godrigos/forams
